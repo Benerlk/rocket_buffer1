@@ -1,6 +1,6 @@
 <meta>
-    <info author="Bené" name="Painel de login" version="1.0.0" />
+    <info author="Bené" name="Painel de login" version="1.0.0"/>
 
-    <script src="login.lua" type="server" />
+    <script src="login.lua" type="server"/>
 
 </meta>
